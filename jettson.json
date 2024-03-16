@@ -1,0 +1,9 @@
+{
+    "name": "Peap",
+    "description": "Low fee peer-to-peer electronic cash alternative to Bitcoin",
+    "symbol": "PEAP",
+    "decimals": 9,
+    "amount":"20000000",
+    "totalsupply":"25000000",
+    "image": "https://andrewvt09.github.io/pea/peaimg2.png"
+}
